@@ -1,0 +1,4 @@
+com.mysql.jdbc.Driver
+jdbc:mysql://172.16.0.1:3306/wifi
+root
+hust311
